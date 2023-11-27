@@ -1,0 +1,5 @@
+../Core/Src/led_control.c:11:6:ToggleLed_0	8	static
+../Core/Src/led_control.c:14:6:ToggleLed_1	8	static
+../Core/Src/led_control.c:17:6:ToggleLed_2	8	static
+../Core/Src/led_control.c:20:6:ToggleLed_3	8	static
+../Core/Src/led_control.c:23:6:ToggleLed_4	8	static
